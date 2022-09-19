@@ -1,0 +1,64 @@
+---
+{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/26-07-2022-notes-on-past-presentation/","dgHomeLink":true,"dgPassFrontmatter":true}
+---
+
+# Notes on Past Presentations
+#### Anika — Rakugo
+- Wear the costume  typical of the art form
+- Dramatic, Interactive, catching the attention span of the audience, not being monotonous
+- **Chronological order:**
+- Hook: Did you know? 
+	- Historical and Political Context
+		- Origin - date
+		- Situation of the country in which it was formed
+		- How did it become popular
+		- Evolution of the art form
+		- Early stages of the art form
+	- Introduction to the form
+		- Who was the audience
+		- Basic performance style
+		- Defining various terms
+	- Cultural and social influence
+		- Religion
+		- Language
+		- Lifestyle
+	- Rakugo Today
+		- Gender of performers
+		- Improvisation 
+		- Language
+	- Cultural Appropriation - My experience
+		- Intercultural exchange and synthesis
+	- Performance and Production Elements
+		- Stage setup
+			- Elements of the stage setup
+			- Reasoning
+			- Terminology
+		- Performer/Storyteller
+			- Clothing
+			- Posture
+			- Training
+			- Manipulation of voice, pitch and props
+		- Classification of performance elements — e.g. Kouzan's 13 signs of theatre
+			- Spoken text
+			- Tone 
+			- &c.
+		- Expression through body
+			- Gestures 
+			- Use pictures to enhance 
+			- Actual props shown in the presentation
+			- Reasoning
+		- Performance conventions
+			- Character stereotypes
+			- Change in pitch/tonality
+			- Character switches → Use videos
+			- How will I apply these in my performance?
+	- Performance
+		- Anika changed pitch without moving from the spot. 
+		- Switching between various props to accentuate the difference between characters.
+		- Used an original story
+	- Conclusion
+		- Reflection on the performance
+		- Noting the elements used in the performance
+	- Citations
+- Not using a script
+- 
