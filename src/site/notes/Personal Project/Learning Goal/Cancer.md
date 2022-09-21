@@ -29,10 +29,6 @@ Lung cancer is a type of cancer that starts in the lungs, where uncontrolled cel
 ### Prostate Cancer
 The prostate is a part of the male reproductive system, along with two seminal vesicles, glands that are attached to each side of the prostate. It is the second most common cancer globally, and the fifth leading cause of cancer related death in men. Typically, age is a risk factor associated with prostate cancer, along with obesity. Almost all prostate cancers are adenocarcinomas—they develop from the gland cells. In some cases, prostate cancers grow and spread quickly, but in some, it remains unnoticed for a long time.
 ### Breast Cancer
-#### Ductal Carcinoma
-#### Invasive Ductal Carcinoma
-#### Inflammatory Breast Cancer
-#### Metastatic Breast Cancer
 
 ### Colorectal Cancer
 
@@ -43,13 +39,8 @@ The prostate is a part of the male reproductive system, along with two seminal v
 
 
 ### Thyroid Cancer
-#### Papillary thyroid cancer
-#### Follicular thyroid cancer
 
 ### Endometrial Cancer
-#### Endometrioid adenocarcinoma
-#### Uterine papillary serous carcinoma
-#### Uterine clear cell carcinoma
 
 ### Pancreatic/Exocrine Cancer
 
@@ -61,6 +52,16 @@ The prostate is a part of the male reproductive system, along with two seminal v
 #### Acute lymphocytic Leukemia
 
 #### Acute myelogenous Leukemia
+
+
+### Brain Cancer
+
+
+### Gynaecological Cancer
+
+#### Ovarian Cancer
+#### Cervical Cancer
+
 
 
 
