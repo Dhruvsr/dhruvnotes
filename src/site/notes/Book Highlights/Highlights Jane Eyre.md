@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kindle-sync":{"bookId":"7030","title":"Jane Eyre","author":"Charlotte Bronte","highlightsCount":6},"permalink":"/book-highlights/highlights-jane-eyre/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-highlights/highlights-jane-eyre/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Jane Eyre
