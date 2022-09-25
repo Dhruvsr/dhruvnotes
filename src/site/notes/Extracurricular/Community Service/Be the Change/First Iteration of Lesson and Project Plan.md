@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/first-iteration-of-lesson-and-project-plan/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/first-iteration-of-lesson-and-project-plan/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Project Plan 📓
