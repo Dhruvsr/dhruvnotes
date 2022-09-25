@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/jane-eyre-and-charlotte-bronte/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/jane-eyre-and-charlotte-bronte/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # How much of Jane Eyre is related to Charlotte Bronte?
