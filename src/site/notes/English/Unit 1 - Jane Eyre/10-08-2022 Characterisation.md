@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/10-08-2022-characterisation/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/10-08-2022-characterisation/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Characterisation
