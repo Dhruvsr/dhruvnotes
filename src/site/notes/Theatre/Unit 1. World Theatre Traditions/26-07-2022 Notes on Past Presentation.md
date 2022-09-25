@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/26-07-2022-notes-on-past-presentation/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/26-07-2022-notes-on-past-presentation/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Notes on Past Presentations
