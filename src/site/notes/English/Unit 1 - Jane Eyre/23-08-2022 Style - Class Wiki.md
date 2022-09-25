@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/23-08-2022-style-class-wiki/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/23-08-2022-style-class-wiki/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Style – Class Wiki
