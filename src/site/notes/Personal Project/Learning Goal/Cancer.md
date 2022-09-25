@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-project/learning-goal/cancer/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/personal-project/learning-goal/cancer/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # In-Depth Research into Cancer and its Types
