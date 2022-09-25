@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/06-09-2022-themes-in-jane-eyre/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/06-09-2022-themes-in-jane-eyre/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Themes in Jane Eyre
