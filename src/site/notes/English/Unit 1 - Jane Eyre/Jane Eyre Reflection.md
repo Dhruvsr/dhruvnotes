@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/jane-eyre-reflection/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/jane-eyre-reflection/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Jane Eyre Reflection
