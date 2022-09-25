@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/vocabulary-list/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/spanish/vocabulary-list/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Lista de Vocabulario
