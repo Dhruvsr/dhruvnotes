@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/13-09-2022-performance-analysis-notes/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/13-09-2022-performance-analysis-notes/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Performance Analysis
