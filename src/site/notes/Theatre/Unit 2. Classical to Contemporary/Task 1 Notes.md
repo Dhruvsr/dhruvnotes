@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/task-1-notes/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/task-1-notes/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Class Notes (16/09)
