@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/online-notes-on-julius-caesar-rsc/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/online-notes-on-julius-caesar-rsc/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Julius Caesar by RSC
