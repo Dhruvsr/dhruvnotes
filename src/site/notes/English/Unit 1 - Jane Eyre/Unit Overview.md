@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/unit-overview/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/unit-overview/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Concepts and Contexts
