@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/unit-1/07-09-2022-imperativo/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/spanish/unit-1/07-09-2022-imperativo/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Imperativo
