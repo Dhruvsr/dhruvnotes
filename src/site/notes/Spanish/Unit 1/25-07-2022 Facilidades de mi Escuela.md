@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/unit-1/25-07-2022-facilidades-de-mi-escuela/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/spanish/unit-1/25-07-2022-facilidades-de-mi-escuela/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Facilidades de Mi Escuela → Párrafo
