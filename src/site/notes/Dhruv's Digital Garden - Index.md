@@ -5,7 +5,7 @@
 # Dhruv's Digital Garden 🌱
 
 **Hello, and welcome to** <mark class="Green">Dhruv's Digital Garden!</mark> 
-In this repository, you will be able to navigate through the intricacies of my **second brain** 🧠, or at least that's what I want this to be. 
+In this repository, you will be able to navigate through the intricacies of my **second brain** 🧠; a repository of my online notes.
 This isn't the *full access* to all my notes, but through this directory you will be able to access the ones that I wish to keep <mark class="Red">public</mark>. 
 **If I have linked you to a specific note and you arrive here**, you may be confused. If this is the case please go to the exact link which I may have sent you to avoid any confusion.
 
