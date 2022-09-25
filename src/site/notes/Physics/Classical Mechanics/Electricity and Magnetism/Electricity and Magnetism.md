@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/physics/classical-mechanics/electricity-and-magnetism/electricity-and-magnetism/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/physics/classical-mechanics/electricity-and-magnetism/electricity-and-magnetism/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
