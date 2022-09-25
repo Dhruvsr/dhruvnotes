@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/idu/1-healthcare/12-07-2022-introduction-to-healthcare-as-an-idu/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/idu/1-healthcare/12-07-2022-introduction-to-healthcare-as-an-idu/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Answering Questions
