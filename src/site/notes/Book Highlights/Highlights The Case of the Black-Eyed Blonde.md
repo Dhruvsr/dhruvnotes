@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"kindle-sync":{"bookId":"57315","title":"The Case of the Black-Eyed Blonde","author":"Gardner, Erle Stanley","highlightsCount":1},"permalink":"/book-highlights/highlights-the-case-of-the-black-eyed-blonde/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/book-highlights/highlights-the-case-of-the-black-eyed-blonde/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # The Case of the Black-Eyed Blonde
