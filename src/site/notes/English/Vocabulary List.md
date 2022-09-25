@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/vocabulary-list/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/english/vocabulary-list/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Vocabulary List
