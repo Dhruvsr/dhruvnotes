@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/unit-1/schaum-s-book/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/spanish/unit-1/schaum-s-book/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Schaum's Grammar Book
