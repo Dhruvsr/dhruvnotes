@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/chosen-skills/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/chosen-skills/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Chosen Skills
