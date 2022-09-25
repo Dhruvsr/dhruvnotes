@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/peking-opera-presentation-narrative/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/peking-opera-presentation-narrative/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Peking Opera
