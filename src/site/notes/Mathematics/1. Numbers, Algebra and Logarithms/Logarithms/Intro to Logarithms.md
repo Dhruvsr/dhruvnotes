@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg:publish":true,"permalink":"/mathematics/1-numbers-algebra-and-logarithms/logarithms/intro-to-logarithms/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/mathematics/1-numbers-algebra-and-logarithms/logarithms/intro-to-logarithms/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Introduction to Logarithms
