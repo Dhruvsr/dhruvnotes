@@ -12,29 +12,23 @@ This isn't the *full access* to all my notes, but through this directory you wil
 # Main Directory 
 - **Organized** [[School Files|School Files]] 🏫
 	- *Here is some information that I keep handy related to schoolwork and schedules.* 
-- **Spanish** 🏳
-	- [[Spanish/0. Spanish Directory|0. Spanish Directory]]
+-  [[Spanish/0. Spanish Directory|Spanish]]
 
 
 -  **Service As Action** 👷‍♂️
-	- [[Extracurricular/Community Service/Be the Change/0. Be the Change Directory|0. Be the Change Directory]]
+	- [[Extracurricular/Community Service/Be the Change/0. Be the Change Directory|Be The Change]]
 	
 	
-- **Theatre** 🎭
-	- [[Theatre/0. Theatre Directory|0. Theatre Directory]]
+-   [[Theatre/0. Theatre Directory|Theatre]]🎭
 
 - **Books, English, Vocabulary, &c** 📚
-	- [[English/0. English Directory|0. English Directory]]
-	- [[Book Highlights/0. Book Highlights Directory|0. Book Highlights Directory]]
-	- [[English/Vocabulary List|English/Vocabulary List]]
+	- [[English/0. English Directory|L&L/English]]
 	- [[English/Reading List|Reading List]]
-- **IDU** 💭
-	- [[IDU/0. IDU Directory|0. IDU Directory]]
-- **Humanities/I&S** 🙋‍♂️
-	-  [[Humanities/0. Humanities Directory|0. Humanities Directory]]
-- **Personal Project** 📝
-	- [[Personal Project/0. Personal Project Directory|0. Personal Project Directory]]
+	- [[Book Highlights/0. Book Highlights Directory|Book Highlights]]
+	
+- [[IDU/0. IDU Directory|IDU]]💭
+- [[Humanities/0. Humanities Directory|Humanities]] 🙋‍♂️
+- [[Personal Project/0. Personal Project Directory|Personal Project]]📝
 
-- **Random/Extracurricular/[[Extracurricular/0. Personal Studies Directory|0. Personal Studies Directory]]**
-	- [[Extracurricular/Geoguessr|Geoguessr]]
+- [[Extracurricular/0. Personal Studies Directory|Personal/Random Notes]]
 
