@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/physics/classical-mechanics/electricity-and-magnetism/electrostatic-precipitator/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/physics/classical-mechanics/electricity-and-magnetism/electrostatic-precipitator/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Electrostatic Precipitator
