@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/29-07-2022-structure-infographic-setting/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/29-07-2022-structure-infographic-setting/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Notes on Jane Eyre
