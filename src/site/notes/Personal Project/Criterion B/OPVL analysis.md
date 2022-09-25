@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personal-project/criterion-b/opvl-analysis/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/personal-project/criterion-b/opvl-analysis/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # OPVL
