@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/notes-for-tech-project/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/notes-for-tech-project/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # GHPS Hoodi Notes 17-09-2022
