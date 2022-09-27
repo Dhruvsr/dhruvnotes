@@ -8,7 +8,7 @@
 - Great Expectations by Charles Dickens features the story of an orphan named Pip who starts live over again as he goes from a life of poverty to one with riches, and it follows Pip's personal growth.
 - Other common protagonists can be misfits, runaways and artists(Kunstlerroman)
 
-**Supporting characters**
+**Supporting [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#Major Minor Characters of Jane Eyre|Characters]]**
 - Lover/Love interest: Mr Rochester
 - Wicked authority figure: Mrs Reed, Mr Brocklehurst
 - Kindly teacher: Mrs Temple
@@ -23,7 +23,7 @@
 - Spiritual crises
 
 
-**Freytag's Model Applied in Moor House**
+**Freytag's Model Applied in [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character been developed in Moorhouse|Moorhouse]]**
 - Exposition: Chapter 28 begins with Jane riding in a coach away from Thornfield, going the furthest her money would take her. Nobody helps her, and she survives on a meagre loaf of bread given by the farmer. She sees another light on the moors where she meets St John, Diane and Mary.  After being introduced to these characters, she finds herself well taken care of. She does not want to be treated as an invalid and thus she helps around the house, where she appears to be an educated young woman, and her art is admired by Diane and Mary.
 -  Inciting Incident: Jane is provided with a cottage to live in, and the post of a school teacher.
 - Rising Action: Jane becomes familiar with her students. She realizes that she is not doomed to be alienated from her past friends and family. 
