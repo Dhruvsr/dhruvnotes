@@ -3,6 +3,7 @@
 ---
 
 # Homework - 09/23/2022
+
 ## What is Servant Leadership?
 > [!SUMMARY] Definition of Servant Leadership
 > Servant leadership is a leadership style and philosophy whereby an individual interacts with others—either in a management or fellow employee capacity—to achieve authority rather than power.
