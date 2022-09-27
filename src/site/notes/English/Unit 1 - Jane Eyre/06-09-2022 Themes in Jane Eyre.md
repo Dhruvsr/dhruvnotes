@@ -3,6 +3,7 @@
 ---
 
 # Themes in Jane Eyre
+
 ##### What are some of the themes in Jane Eyre?
 1. Religion
 2. Social status/class
