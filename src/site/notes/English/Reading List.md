@@ -4,7 +4,7 @@
 
 # Dhruv's Read Books Since May 2022
 *Books read after May 14*
-**  
+
 
 1.  PERRY MASON SERIES: The Case of the Buried Clock (Gardner, Erle Stanley)
 2.  The Case of the Careless Kitten (Gardner, Erle Stanley)
@@ -57,5 +57,3 @@
 49.  The Count of Monte Cristo
 50.  Globalization and its Discontents by Joseph Stiglitz
 51.  Anarchism
-
-**
