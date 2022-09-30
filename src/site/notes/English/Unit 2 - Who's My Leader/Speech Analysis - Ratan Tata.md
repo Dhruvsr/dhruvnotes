@@ -12,5 +12,9 @@
 - INKtalks is a forum in which leaders can speak about various issues and their personal narratives.
 - The speaker, Ratan Tata, is the former chairman of Tata, and heads their charitable trusts.
 
-### The message
-- Ratan Tata talks about how new companies of the new India can be impactful and create innovative and change-making ideas. 
+### The message and rhetoric devices
+- Ratan Tata talks about how new companies of the new India can be impactful and create innovative and change-making ideas.
+- He refers to the Indian population as a whole, and uses second person to seem relatable to the audience, as he says "We don't have the...". 
+- He also uses anaphora as he repeats the same part of the sentence multiple times to reinforce his point that young entrepreneurs in India lack support services and an environment to help them.
+- He uses personal anecdotes, giving his own experiences which serve as evidence to his claims. 
+- Repetition is used throughout the speech to strengthen the concepts he is trying to bring out in this interview, which tie into the title of this interview "Unleashing India's Innovators."
