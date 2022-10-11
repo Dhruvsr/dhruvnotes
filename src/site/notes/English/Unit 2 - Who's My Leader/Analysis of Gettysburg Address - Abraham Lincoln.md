@@ -4,7 +4,7 @@
 
 # Gettysburg Address
 ###### —Abraham Lincoln
-
+**Transcript available [here](https://constitutionaldemocracyproject.org/file_download/inline/682fcb20-ff20-40e7-927d-3e99be5a356f)**
 ##### Context
 This speech was delivered in the midst of a bloody civil war. Unions had recently defeated Confederate troops at the Battle of Gettysburg. Lincoln realized he must inspire the public. 
 
@@ -51,5 +51,6 @@ This speech was delivered in the midst of a bloody civil war. Unions had recentl
 - A call to action to finish the task "remaining before us" because if we don't "dedicate" ourselves, their work has been for nothing "died in vain"
 - They sacrificed their today for your tomorrow
 - This speech simultaneously persuades, actuates and inspires.
-- "new birth of freedom" → 
+- "new birth of freedom" → connection to "conceived"
 - "of the people, by the people, for the people" → a highly quoted and powerful triple
+
