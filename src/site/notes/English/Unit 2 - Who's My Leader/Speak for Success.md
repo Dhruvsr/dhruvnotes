@@ -17,4 +17,4 @@ Along with the use of [[English/Unit 2 - Who's My Leader/Ethos, Pathos, Logos Re
 
 - The <mark class="Aqua">intonations</mark> and speech conventions can also increase how impactful it is. For example, Narendra Modi uses brilliant oratory skills wherein he uses intonations and changes in tone. Making short pauses can allow for the words to sink in to the audience.
 - Along with oration, body language and hand gestures can improve the speech through pacing, making eye content with the audience, &c.
-- A call to action is also useful. The impact of a persuasive speech can be reinforced through a call to action at the end of the piece which encourages the audience to do something.
+- A call to action is also useful. The impact of a persuasive speech can be reinforced through a call to action at the end of the piece which encourages the audience to do something. This can be seen in the [[English/Unit 2 - Who's My Leader/Analysis of Gettysburg Address - Abraham Lincoln|Gettysburg Address.]]
