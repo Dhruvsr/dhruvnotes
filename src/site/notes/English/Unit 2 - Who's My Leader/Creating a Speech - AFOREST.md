@@ -3,6 +3,7 @@
 ---
 
 # Speech Conventions
+
 ### AFOREST Technique
 1. Anecdotes
 2. Facts
