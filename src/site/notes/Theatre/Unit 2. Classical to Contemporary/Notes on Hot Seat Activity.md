@@ -10,7 +10,7 @@
 
 ### Noyonika
 - Leaning forward is a good choice
-- Too much repetition perhaps?
+- Too much repetition perhaps? Build more quirks and character traits
 
 ### Chinayrah
 - Why are you transfixed on one side of the audience? in the start 
@@ -18,4 +18,3 @@
 - Go deeper into spite
 - "Need to understand" → good line
 - Good up and down in terms of emotions. 
-- Towards the end
