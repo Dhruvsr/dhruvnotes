@@ -7,13 +7,13 @@
 
 
 **Who am I?** This question’s answer includes all relevant details from name and age to physical traits, education, and beliefs. 
-- Mark Antony 	was born on 14 January 83 BC
+- Mark Antony was born on 14 January 83 BC
 - Antony is vengeful, and with the power vacuum created from the death of Caesar, he aspires to not only kill the perpetrators but to ascend as the new ruler of Rome.
 
 **What time is it?** Depending on the scene, the most relevant measure of time can be the era, the season, the day, or even the specific minute. 
 - 44 BCE
 - He has just been traumatized by the death of Caesar, his friend. This takes place in Spring, on 15th March. "The Ides of March"
-	
+
 **Where am I?** This answer covers the country, town, neighbourhood, room, or even the specific part of the room. 
 -  Antony gives this speech in the town square of Rome after the death of Julius Caesar. Antony uses a confrontational tone accompanied with a judgmental attitude because he is attempting to persuade the people of Rome to disregard the words of Brutus and to move against the conspirators.
 **What surrounds me?** Characters can be surrounded by anything from weather to furnishings, landscape, or people. 
