@@ -4,8 +4,8 @@
 
 # Contemporary Monologue
 
-Brothers and sisters, listen to what I have to say;
-Today, I stand on the footsteps of the Vigyan Bhavan, and in your television screens—but that is not uncommon.
+Bhaio aur Bheno, listen to what I have to say;
+Today, I stand on the footsteps of the Vigyan Bhavan, and in your television screens.
 I am not here to praise Jayshankar, or his ideologies towards shaping a better, more technologically advanced India. I am not here to say that his manifestos and campaigns would surely lead to not just the success of the party, but of India.
 Birla and Chirag have stated that he was conceited, and they are respectable and righteous men.
 The good qualities of a man is lost when he no longer possesses the power to exhibit them.
