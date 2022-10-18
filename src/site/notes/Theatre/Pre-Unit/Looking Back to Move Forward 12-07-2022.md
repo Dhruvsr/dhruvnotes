@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/pre-unit/looking-back-to-move-forward-12-07-2022/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/theatre/pre-unit/looking-back-to-move-forward-12-07-2022/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Looking back on Grade 9 to Move Forward
