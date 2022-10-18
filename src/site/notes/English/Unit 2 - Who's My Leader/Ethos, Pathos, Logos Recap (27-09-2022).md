@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/ethos-pathos-logos-recap-27-09-2022/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/ethos-pathos-logos-recap-27-09-2022/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Ethos, Pathos and Logos
