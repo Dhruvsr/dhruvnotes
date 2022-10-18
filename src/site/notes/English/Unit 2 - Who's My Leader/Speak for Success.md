@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/speak-for-success/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/speak-for-success/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Speak for Success
