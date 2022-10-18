@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/unit-2/como-aprendemos-sobre-la-cultura-a-traves-de-los-viajes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/spanish/unit-2/como-aprendemos-sobre-la-cultura-a-traves-de-los-viajes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Como Aprendemos Sobre La Cultura a través de los viajes?
