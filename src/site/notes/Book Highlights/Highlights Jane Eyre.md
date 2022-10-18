@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-highlights/highlights-jane-eyre/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/book-highlights/highlights-jane-eyre/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Jane Eyre
