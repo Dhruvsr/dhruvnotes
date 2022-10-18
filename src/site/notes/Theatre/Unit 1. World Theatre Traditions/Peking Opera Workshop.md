@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/peking-opera-workshop/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/peking-opera-workshop/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Peking Opera Workshop Research
