@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/reading-list/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/english/reading-list/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Dhruv's Read Books Since May 2022
