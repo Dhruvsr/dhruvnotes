@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-highlights/highlights-the-case-of-the-black-eyed-blonde/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/book-highlights/highlights-the-case-of-the-black-eyed-blonde/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # The Case of the Black-Eyed Blonde
