@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dhruv-s-digital-garden-index/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 # Dhruv's Digital Garden 🌱
