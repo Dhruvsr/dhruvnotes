@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/friends-romans-countrymen-monologue/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/friends-romans-countrymen-monologue/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Monologue - Julius Caesar RSC
