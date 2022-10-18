@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/ghps-hoodi/notes-on-hardware-software-kernel-os/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/ghps-hoodi/notes-on-hardware-software-kernel-os/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # GHPS Hoodi Notes 17-09-2022
