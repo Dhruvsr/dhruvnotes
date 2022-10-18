@@ -6,7 +6,7 @@
 ###### —Abraham Lincoln
 **Transcript available [here](https://constitutionaldemocracyproject.org/file_download/inline/682fcb20-ff20-40e7-927d-3e99be5a356f)**
 ##### Context
-This [[English/Unit 2 - Who's My Leader/Creating a Speech - AFOREST#Speech Conventions|speech]] was delivered in the midst of a bloody civil war. Unions had recently defeated Confederate troops at the Battle of Gettysburg. Lincoln realized he must inspire the public. 
+This [[English/Unit 2 - Who's My Leader/Creating a Speech - AFOREST and Thesis Statement#Speech Conventions|speech]] was delivered in the midst of a bloody civil war. Unions had recently defeated Confederate troops at the Battle of Gettysburg. Lincoln realized he must inspire the public. 
 
 ### Line by Line Analysis
 > [!QUOTE] 
