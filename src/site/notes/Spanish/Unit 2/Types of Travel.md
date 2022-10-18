@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/unit-2/types-of-travel/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/spanish/unit-2/types-of-travel/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Tipos de Viajes 
