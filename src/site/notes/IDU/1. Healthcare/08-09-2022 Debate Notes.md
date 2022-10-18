@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/idu/1-healthcare/08-09-2022-debate-notes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/idu/1-healthcare/08-09-2022-debate-notes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Notes on Debate
