@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/utilities/2-templates/daily-note-template/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/utilities/2-templates/daily-note-template/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
   
