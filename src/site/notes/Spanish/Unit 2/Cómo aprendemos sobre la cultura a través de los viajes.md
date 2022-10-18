@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/spanish/unit-2/como-aprendemos-sobre-la-cultura-a-traves-de-los-viajes/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+# Como Aprendemos Sobre La Cultura a través de los viajes?
+Podemos aprender sobre la cultura a través de los viajes por que cuando el viajero enrique por diferentes lugares y encuentra diferentes personas de un país, convertirse fácil. Casi todos los lugares son beneficios porque tiene cosas significadas culturales. Las ideas y conceptos de las personas en un lugar pueden decir más sobre cómo viven, los rituales en los que participan y mucho más. Además, podemos hacer diferentes actividades como las clases de baile o arte que nos ayuda experimentar la cultura en un nivel personal. 
+Tiene variedades videos en las plataformas como YouTube cuando podemos ver otras turistas que divierten en las ubicaciones exóticas como Cuba, Colombia, Mexico, y mas. Pero, hasta que visitas el lugar, es imposible comprender la cultura actual. Otras actividades que puede realizar una turista para aprender la cultura son probar las ropas indígenas y la comida local. Pero, es importante ser repuestos a los comunidades locales y su cultura. Hasta que quedarse en el lugar por mucho tiempo, es difícil para saber su cultura realmente. Sin embargo, podemos compartir nuestras experiencias y recomendar lugares buenos para visitar como los museos, sitios arqueológico y la arquitectura. 
