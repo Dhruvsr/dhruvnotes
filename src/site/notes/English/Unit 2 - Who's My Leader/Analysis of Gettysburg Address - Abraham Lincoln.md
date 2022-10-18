@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/analysis-of-gettysburg-address-abraham-lincoln/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/analysis-of-gettysburg-address-abraham-lincoln/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Gettysburg Address
