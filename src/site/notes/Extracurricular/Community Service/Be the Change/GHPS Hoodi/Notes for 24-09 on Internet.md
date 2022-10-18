@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/ghps-hoodi/notes-for-24-09-on-internet/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/ghps-hoodi/notes-for-24-09-on-internet/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Notes for 24-09
