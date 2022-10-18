@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/15-07-2022-world-theatre-traditions-thesis-and-antithesis/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/15-07-2022-world-theatre-traditions-thesis-and-antithesis/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # World Theatre Traditions Thesis vs Antithesis
