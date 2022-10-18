@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/servant-leadership-and-eq/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/servant-leadership-and-eq/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Homework - 09/23/2022
