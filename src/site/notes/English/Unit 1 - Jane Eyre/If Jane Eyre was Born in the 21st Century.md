@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/if-jane-eyre-was-born-in-the-21st-century/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/if-jane-eyre-was-born-in-the-21st-century/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # If Jane Eyre was Born in the 21st Century
