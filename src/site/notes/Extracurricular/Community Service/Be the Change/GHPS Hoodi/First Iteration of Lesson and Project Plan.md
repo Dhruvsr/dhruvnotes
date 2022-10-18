@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/ghps-hoodi/first-iteration-of-lesson-and-project-plan/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/extracurricular/community-service/be-the-change/ghps-hoodi/first-iteration-of-lesson-and-project-plan/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Project Plan 📓
