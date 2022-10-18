@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/august-2022-field-trip/dhruv-s-case-study/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/extracurricular/august-2022-field-trip/dhruv-s-case-study/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Dhruv's Case Study
