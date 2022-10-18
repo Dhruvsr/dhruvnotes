@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/i-have-a-dream-analysis/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/i-have-a-dream-analysis/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # I Have a Dream: Analysis
