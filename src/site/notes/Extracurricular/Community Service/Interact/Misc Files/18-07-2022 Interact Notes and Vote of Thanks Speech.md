@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/interact/misc-files/18-07-2022-interact-notes-and-vote-of-thanks-speech/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/extracurricular/community-service/interact/misc-files/18-07-2022-interact-notes-and-vote-of-thanks-speech/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Vote of Thanks (Dhruv Ramu)
