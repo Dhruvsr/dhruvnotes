@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/school-files/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+{"dg-publish":true,"dg-permalink":"schoolfiles","permalink":"/schoolfiles/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # School Files & Organizing 🏫
