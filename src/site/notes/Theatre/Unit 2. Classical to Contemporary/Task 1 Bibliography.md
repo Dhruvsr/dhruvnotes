@@ -13,3 +13,4 @@
 8. “Language Analysis in Julius Caesar: Shakespeare Learning Zone.” Royal Shakespeare Company, https://www.rsc.org.uk/shakespeare-learning-zone/julius-caesar/language/analysis. 
 9. “Review of Shakespeare's Julius Caesar (Directed by Angus Jackson for the Royal Shakespeare Company) and Antony and Cleopatra (Directed by Iqbal Khan for the Royal Shakespeare Company), at the Royal Shakespeare Theatre, Stratford-upon-Avon, 14 and 15 August 2017.” Taylor &amp; Francis, https://www.tandfonline.com/doi/abs/10.1080/17450918.2017.1402812. 
 10. “Royal Shakespeare Company.” Encyclopædia Britannica, Encyclopædia Britannica, Inc., https://www.britannica.com/topic/Royal-Shakespeare-Company. 
+11. “Definition of Stage Adaptation.” Collinsdictionary.com, HarperCollins Publishers Ltd, 6 Nov. 2022, www.collinsdictionary.com/dictionary/english/stage-adaptation.
