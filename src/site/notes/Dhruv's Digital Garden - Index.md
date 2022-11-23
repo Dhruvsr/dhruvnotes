@@ -16,7 +16,7 @@ This isn't the *full access* to all my notes, but through this directory you wil
 
 
 -  **Service As Action** 👷‍♂️
-	- [[Extracurricular/Community Service/Be the Change/0. Be the Change Directory|Be The Change]]
+	- [[Extracurricular/Community Service/SAA/0. Be the Change Directory|Be The Change]]
 	
 	
 -   [[Theatre/0. Theatre Directory|Theatre]]🎭
