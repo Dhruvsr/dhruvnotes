@@ -9,7 +9,7 @@
 - Performance analysis is conducted by all theatre scholars, whether they are esteemed practitioners or just students. A performance analysis involves observing the Kowzan's thirteen signs which can be seen in the performance. The first step is to watch the performance, providing it undivided attention. Then, the student must look out for auditive and visual signs by the actor, and how it is correlated with the production elements such as stage appearance and inarticulate sounds. Finally, there is the appraisal where the conventions of the form can be connected to the performance itself.
 
 **3. What are theatrical adaptations? How do we define it? How does it impact the world of theatre?**
-Theatrical adaptations involve appropriately utilizing a particular form of theatre/a piece created in that form and adapting—or changing it—to either make it understandable in a modern context or synthesize it with another form to create a powerful message. They can be impactful
+Theatrical adaptations involve appropriately utilizing a particular form of theatre/a piece created in that form and adapting—or changing it—to either make it understandable in a modern context or synthesize it with another form to create a powerful message. 
 
 **4. What relationship is there between adaptation, performance and change?**
 Adaptation refers to a modification or change of an existing performance. Adaptations can lead to a change in the perception or utilization of the form itself, which may be beneficial or detrimental to the performance.
