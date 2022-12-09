@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/vocabulary-list/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Vocabulary List
 
 Now, if you come across this list, *please don't be alarmed*, it's just a bit of <mark class="Mint">fun</mark>
