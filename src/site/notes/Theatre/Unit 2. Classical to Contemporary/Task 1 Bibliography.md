@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/task-1-bibliography/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Bibliography
 1. Hayne, Victoria. “Performing Social Practice: The Example of Measure for Measure.” Shakespeare Quarterly, vol. 44, no. 1, 1993, pp. 1–29. JSTOR, https://doi.org/10.2307/2871169. Accessed 28 Sep. 2022.
 2. BURNETT, MARK THORNTON, et al., editors. The Edinburgh Companion to Shakespeare and the Arts. Edinburgh University Press, 2011. JSTOR, http://www.jstor.org/stable/10.3366/j.ctt1r1z12. Accessed 28 Sep. 2022.
