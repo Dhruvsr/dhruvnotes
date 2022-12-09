@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/peking-opera-workshop/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Peking Opera Workshop Research
 - Set in the Tang Dynasty (618-907), the "Drunken Concubine" tells a story of emperor's beloved concubine Yang Yuhuan, also known as one of the Four Beauties of ancient China. 
 - Yu Kuizhi and Li Shengsu are two Peking Opera masters of the China National Peking Opera Company. Li Shengsu plays Yang, the main character in the opera "Drunken Concubine,"  a one-person show. 
@@ -14,7 +13,7 @@
 	- Widen eyes
 	- Yoon show or cloud hands pose show an imaginary ball being rolled between the hands → Chi
 	- Stretch arm and make a sudden jerk which punctuates the end of every gesture. 
-	- ![[Pasted image 20220808213653.png|Pasted image 20220808213653.png]] 
+	- ![[Pasted image 20220808213653.png\|Pasted image 20220808213653.png]] 
 	- Follow the hand movements with the eye
 	- 
 
