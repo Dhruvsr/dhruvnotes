@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/mathematics/1-numbers-algebra-and-logarithms/logarithms/intro-to-logarithms/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
+dg:publish: true
 ---
-
 # Introduction to Logarithms
 ### Exponential Equation
 $$2^{3}=8$$
@@ -33,4 +33,4 @@ $$\log_{2} 8=3$$
 2
 
 
-[[Dhruv's Digital Garden - Index|Dhruv's Digital Garden - Index]]
+[[Dhruv's Digital Garden - Index\|Dhruv's Digital Garden - Index]]
