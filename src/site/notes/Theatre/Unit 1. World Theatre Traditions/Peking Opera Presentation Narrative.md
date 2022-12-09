@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/peking-opera-presentation-narrative/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Peking Opera
 - When one thinks of the word 'opera', they might think of a high soprano 
 - Peking Opera is said to have matured in Beijing and is a highly comprehensive theatre tradition that integrates music, singing, gesture, costume, movement, acrobatics, make-up, speech, and stagecraft that differentiates it from other forms today. 
