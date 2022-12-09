@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/tang-soo-do/one-steps-notes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # One-Steps Notes
 ## Hand 
 ###### 26
