@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/06-09-2022-themes-in-jane-eyre/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Themes in Jane Eyre
 
 ##### What are some of the themes in Jane Eyre?
