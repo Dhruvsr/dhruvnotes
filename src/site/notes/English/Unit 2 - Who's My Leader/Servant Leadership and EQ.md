@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/servant-leadership-and-eq/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Homework - 09/23/2022
 
 ## What is Servant Leadership?
