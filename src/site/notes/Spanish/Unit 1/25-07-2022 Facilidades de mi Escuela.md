@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/unit-1/25-07-2022-facilidades-de-mi-escuela/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Facilidades de Mi Escuela → Párrafo
 
 Mi escuela tiene ocho cientos estudiantes y sigue el currículo Bachillerato Internacional (BI). Esto es un currículo que es muy famoso en el mundo porque se motiva estudiantes para hace proyectos servicios para el mejoramiento of society. 
