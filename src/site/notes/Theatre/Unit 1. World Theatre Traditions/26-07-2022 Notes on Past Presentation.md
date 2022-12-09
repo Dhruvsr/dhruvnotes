@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/26-07-2022-notes-on-past-presentation/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Notes on Past Presentations
 #### Anika — Rakugo
 - Wear the costume  typical of the art form
