@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/personal-project/criterion-b/bibliography/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Bibliography
 *MLA Format*
 1. Pennmedicine.Org, 2022, https://www.pennmedicine.org/cancer/navigating-cancer-care/programs-and-centers/gastrointestinal-cancer-program/types-of-gastrointestinal-cancer. Accessed 20 Sept 2022.
