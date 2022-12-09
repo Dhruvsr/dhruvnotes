@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"schoolfiles","permalink":"/schoolfiles/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
+dg-permalink: "schoolfiles"
 ---
-
 # School Files & Organizing 🏫
 ```toc
 
