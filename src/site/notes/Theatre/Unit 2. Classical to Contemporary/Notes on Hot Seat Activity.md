@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/notes-on-hot-seat-activity/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 ### Neeti
 - Good use of tone
 - Facial expressions reinforcing speech
