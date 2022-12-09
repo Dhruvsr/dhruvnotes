@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/speech-analysis-ratan-tata/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Ratan Tata: Unleashing India's Innovators
 **Link to [speech](https://www.youtube.com/watch?v=I9M1PhzGCh8)**
 > [!INFO] Speech description (INKtalks)
