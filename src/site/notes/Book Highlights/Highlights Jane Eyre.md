@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/book-highlights/highlights-jane-eyre/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
+kindle-sync:
+  bookId: '7030'
+  title: Jane Eyre
+  author: Charlotte Bronte
+  highlightsCount: 6
 ---
-
 # Jane Eyre
 ## Highlights
 
