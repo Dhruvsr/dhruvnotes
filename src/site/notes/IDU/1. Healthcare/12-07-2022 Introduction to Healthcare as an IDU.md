@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/idu/1-healthcare/12-07-2022-introduction-to-healthcare-as-an-idu/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Answering Questions
 ###### Why do/should I care about understanding the healthcare and the medical system in my country and around the world?
-I should care about understanding [[IDU/1. Healthcare/19-07-2022 PRM 1|healthcare]] and medical system in a local and global perspective because it provides a glance into what healthcare facilities are provided to those in need because I may end up needing such a system as well. Understanding this system is crucial for my own local and global perspective, and plays into other pressing concepts and issues.
+I should care about understanding [[IDU/1. Healthcare/19-07-2022 PRM 1\|healthcare]] and medical system in a local and global perspective because it provides a glance into what healthcare facilities are provided to those in need because I may end up needing such a system as well. Understanding this system is crucial for my own local and global perspective, and plays into other pressing concepts and issues.
 
 ###### Why do I think: learning about health care is an interdisciplinary inquiry?
 I think that learning about health care is an interdisciplinary inquiry because healthcare is not just composed of biology. The healthcare industry itself can only function because it employs a range of people that work in various careers, specializing in various disciplines. Concepts like logistics.  information technology, and biology which itself is made up of various subfields; they are all needed. No industry can successfully exist without the synthetization of multiple disciplines.
