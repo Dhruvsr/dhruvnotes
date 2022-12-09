@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/general/verbos/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Vocabulario de Verbos
 - Ser - to be
 - Estar - to be (temporary)
