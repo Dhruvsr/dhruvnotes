@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/saa/ghps-hoodi/first-iteration-of-lesson-and-project-plan/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Project Plan 📓
 - Dhruv and Akhilesh will be undertaking a project where they will visit government schools lacking in facilities and resources, and teach the students information technology.
 - We will also teach them about various payment gateways and platforms so that they can teach their parents to help facilitate the move to a more cashless economy.
@@ -114,4 +113,4 @@ penor trigonometric functions), using:
 
 
 
-[[Dhruv's Digital Garden - Index|Dhruv's Digital Garden - Index]]
+[[Dhruv's Digital Garden - Index\|Dhruv's Digital Garden - Index]]
