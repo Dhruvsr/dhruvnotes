@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/unit-1/22-07-2022-classwork/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Classwork
 #### Reading 1
 Preguntas
