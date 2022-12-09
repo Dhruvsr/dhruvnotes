@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/general/idioms-and-nice-phrases-bank/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Idioms & Nice Phrases Bank
 ### Idioms (Los Modismos)
 
