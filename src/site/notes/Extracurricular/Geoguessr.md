@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/geoguessr/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Geoguessr 
 
 ## Europe
