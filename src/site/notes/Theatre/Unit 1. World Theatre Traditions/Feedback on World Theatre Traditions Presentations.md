@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/feedback-on-world-theatre-traditions-presentations/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Feedback for Chinayrah — Victorian Melodrama
 - Presentation time: Approx. 6 minutes
 - Short hook — You need to hook in the audience further. While the use of a rhetorical question is good, it is asking if we know what the Victorian era was, rather than an a "DID YOU KNOW".
