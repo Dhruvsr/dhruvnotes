@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/physics/classical-mechanics/electricity-and-magnetism/electrostatic-precipitator/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Electrostatic Precipitator
 
-- An electrostatic precipitator is a device that uses an [[Physics/Classical Mechanics/Electricity and Magnetism/Electricity|electrical charge]] to remove impurities in the air, which can be solid particles or liquid water droplets. It is commonly used atop factories' flues(chimney) for air pollution control.
+- An electrostatic precipitator is a device that uses an [[Physics/Classical Mechanics/Electricity and Magnetism/Electricity\|electrical charge]] to remove impurities in the air, which can be solid particles or liquid water droplets. It is commonly used atop factories' flues(chimney) for air pollution control.
 - The basic function of the electrostatic precipitator is that it applies energy to the particles being collected without impeding the flow of gases. It can capture particles smaller than 2.5 μm (micrometres) ($2.5× 10^{-6}$), and is crucial because these smaller particles can lead to lung damage. 
 - The first successful process of using an electrostatic precipitator was patented in 1908 by American chemist Frederick Gardener Cottrell of University of California, Berkeley. 
 
