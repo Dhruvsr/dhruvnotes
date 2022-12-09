@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/online-notes-on-julius-caesar-rsc/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Julius Caesar by RSC
 *Continued from offline notes*
 - Antony had fled the scene, but then shakes hands with the murderers. They decide to speak to the crowd. When they left only Antony and Caesar's dead body, Antony cries for revenge.
