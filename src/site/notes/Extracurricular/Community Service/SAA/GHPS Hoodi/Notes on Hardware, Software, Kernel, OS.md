@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/saa/ghps-hoodi/notes-on-hardware-software-kernel-os/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # GHPS Hoodi Notes 17-09-2022
 *17-09-2022*
 ## ILO:
