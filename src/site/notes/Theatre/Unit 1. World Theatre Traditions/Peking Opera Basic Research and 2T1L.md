@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-1-world-theatre-traditions/peking-opera-basic-research-and-2-t1-l/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Peking Opera
 -   Peking Opera is the most well known form of Chinese opera, combining dance, music, mime, acrobatics, and speech. 
 -   It is an old form of theatre originating in Beijing (hence the name Peking) during the mid-Qing dynasty between 1644 and 1912. 
