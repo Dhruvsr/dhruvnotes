@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/idu/1-healthcare/08-09-2022-debate-notes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Notes on Debate
 ### Self reflection
 We advocated for the inclusion of elective surgeries under currently existing universal healthcare insurance programmes offered by various governments. The arguments were structured to detail the necessity of elective surgeries—such as organ transplants—and the fact that it tends to be very expensive, thus there is a need for it to be covered by universal healthcare insurance. My closing argument consisted of the use of literary devices such as rhetorical questions, addressing the audience/opposition dire
