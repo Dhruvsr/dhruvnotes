@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/personal-project/criterion-b/opvl-analysis/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # OPVL
 Source being analysed: https://www.mayoclinic.org/diseases-conditions/lung-cancer/symptoms-causes/syc-20374620
 
