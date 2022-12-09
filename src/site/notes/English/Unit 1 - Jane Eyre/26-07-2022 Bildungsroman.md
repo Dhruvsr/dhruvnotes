@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/26-07-2022-bildungsroman/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Bildungsroman
 Class Wiki Entry:
 
