@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/physics/classical-mechanics/electricity-and-magnetism/electricity-and-magnetism/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 
 # Electricity and Magnetism
 ```toc
