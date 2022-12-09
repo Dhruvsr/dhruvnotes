@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/29-07-2022-structure-infographic-setting/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Notes on Jane Eyre
 ## Structural Analysis
 - The Freytag's Pyramid is applied to every setting in the novel.
