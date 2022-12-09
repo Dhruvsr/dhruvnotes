@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/creating-a-speech-aforest-and-thesis-statement/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Speech Conventions
 
 ### AFOREST Technique
