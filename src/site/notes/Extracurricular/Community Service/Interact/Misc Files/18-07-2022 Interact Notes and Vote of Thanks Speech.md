@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/interact/misc-files/18-07-2022-interact-notes-and-vote-of-thanks-speech/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Vote of Thanks (Dhruv Ramu)
 
 Dear fellow Interact members, Rotaract members, and Rotarians, after two, long, difficult years of COVID, we are extremely happy to be back. The past year had its ups and downs.
