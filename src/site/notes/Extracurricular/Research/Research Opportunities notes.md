@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/research/research-opportunities-notes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # How to Get Research Opportunities
 ## #1 Cold Email
 - Email 200-500 research professors
