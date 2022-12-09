@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/general/general-vocabulary-list/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Lista de Vocabulario
 ## General Vocabulary
 ### Text Types en Español
