@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/10-08-2022-characterisation/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Characterisation
 **How are characters developed?**
 - Characters are developed through various connotative and denotative methods. The main elements include:
