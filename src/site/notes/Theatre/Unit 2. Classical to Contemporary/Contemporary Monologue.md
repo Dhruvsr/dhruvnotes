@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/theatre/unit-2-classical-to-contemporary/contemporary-monologue/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true 
 ---
-
 # Contemporary Monologue
 
 Bhaio aur Bheno, meri bath suno;
