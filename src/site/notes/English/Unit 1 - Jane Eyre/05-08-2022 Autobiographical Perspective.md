@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/05-08-2022-autobiographical-perspective/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Class Notes
-- 4 Chapters for [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character developed in Gateshead|Gateshead.]]
-- 6 Chapters at [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character developed in Lowood|Lowood]]
-- 16 Chapters at [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character developed in Thornfield|Thornfield]]
-- 8 Chapters at [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character been developed in Moorhouse|Moorhouse]]
-- 3 Chapters at [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character been developed in Ferndean|Ferndean]]
+- 4 Chapters for [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character developed in Gateshead\|Gateshead.]]
+- 6 Chapters at [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character developed in Lowood\|Lowood]]
+- 16 Chapters at [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character developed in Thornfield\|Thornfield]]
+- 8 Chapters at [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character been developed in Moorhouse\|Moorhouse]]
+- 3 Chapters at [[English/Unit 1 - Jane Eyre/10-08-2022 Characterisation#How has Jane's character been developed in Ferndean\|Ferndean]]
 
 **How does the autobiographical perspective of the first person affects all elements of the narrative?**
 - Perspective and voice: The autobiographical perspective of the narrator is critical to the narrative of Jane Eyre. This is because some of the themes and symbolism present in Jane Eyre can only be conveyed if the perspective of the protagonist is clear to the audience. For example, the rumination and thoughtfulness of Jane as she thinks about her love for Mr Rochester cannot be given justice if it was narrated by another character. Jane Eyre is a bildungsroman; showing her intellectual and psychological growth  is best done in the point of view of the main character. The isolation she feels at Gateshead or the oppression at Lowood—powerful themes, can only be expressed with first person POV.
