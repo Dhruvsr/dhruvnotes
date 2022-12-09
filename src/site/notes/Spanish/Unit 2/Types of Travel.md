@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/unit-2/types-of-travel/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Tipos de Viajes 
 
 Algunas personas le gustan viajar para gozo o placer, pero otros deben viajar por negocios, financia por la empresa. Por ejemplo, una familia podría viajar por el vacación en Maldives, pero un hombre aspirante de negocios podría viajar para trabajar en su empresa. El destino de un viajero podría depender en el propósito del viaje. 
