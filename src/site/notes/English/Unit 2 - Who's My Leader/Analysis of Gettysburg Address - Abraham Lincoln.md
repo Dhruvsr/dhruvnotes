@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/analysis-of-gettysburg-address-abraham-lincoln/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Gettysburg Address
 ###### —Abraham Lincoln
 **Transcript available [here](https://constitutionaldemocracyproject.org/file_download/inline/682fcb20-ff20-40e7-927d-3e99be5a356f)**
 ##### Context
-This [[English/Unit 2 - Who's My Leader/Creating a Speech - AFOREST and Thesis Statement#Speech Conventions|speech]] was delivered in the midst of a bloody civil war. Unions had recently defeated Confederate troops at the Battle of Gettysburg. Lincoln realized he must inspire the public. 
+This [[English/Unit 2 - Who's My Leader/Creating a Speech - AFOREST and Thesis Statement#Speech Conventions\|speech]] was delivered in the midst of a bloody civil war. Unions had recently defeated Confederate troops at the Battle of Gettysburg. Lincoln realized he must inspire the public. 
 
 ### Line by Line Analysis
 > [!QUOTE] 
@@ -23,7 +22,7 @@ This [[English/Unit 2 - Who's My Leader/Creating a Speech - AFOREST and Thesis S
 > We are met on a great battlefield of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
 - Lincoln is recognizing the fallen soldiers (this speech takes place after the Gettysburg address)
 - Use of emotive language "gave their livfes so that the nation might live" to create contrast
-- Use of "we" → inclusive language, as well as [[English/Unit 2 - Who's My Leader/Ethos, Pathos, Logos Recap (27-09-2022)#Ethos|Ethos]]
+- Use of "we" → inclusive language, as well as [[English/Unit 2 - Who's My Leader/Ethos, Pathos, Logos Recap (27-09-2022)#Ethos\|Ethos]]
 - Use of consonance: "field", "final", "fitting"
 > [!QUOTE] 
 > But, in a larger sense, we can not dedicate, we can not consecrate, we can not hallow this ground.
