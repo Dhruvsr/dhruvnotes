@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/spanish/unit-1/schaum-s-book/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Schaum's Grammar Book
 ```toc
 ```
