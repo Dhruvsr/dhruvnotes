@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/compare-and-contrast-notes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Compare and Contrast Notes
 ### Format
 ##### Introduction
