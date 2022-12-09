@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/extracurricular/community-service/saa/ghps-hoodi/notes-for-24-09-on-internet/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Notes for 24-09
 Questions to ask before class:
 - Define an operating system
