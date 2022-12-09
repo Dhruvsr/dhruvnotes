@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-2-who-s-my-leader/ethos-pathos-logos-recap-27-09-2022/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Ethos, Pathos and Logos
 *The power of rhetoric*
 ##### Ethos
