@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/english/unit-1-jane-eyre/23-08-2022-gothicism/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
+dg-publish: true
 ---
-
 # Gothicism (Style) in Jane Eyre
 ### What is Gothic Literature ?
 - Gothic literature is writing that involves scenic and "dark" setting with an atmosphere of trepidation, fear and enigma. The supernatural elements tend to entertain both the reader and the character in the story. 
