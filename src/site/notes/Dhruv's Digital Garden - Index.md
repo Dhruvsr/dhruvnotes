@@ -1,9 +1,7 @@
 ---
-dg-home: true
-dg-publish: true
-dg-show-local-graph: true
-dg-permalink: "home"
+{"dg-publish":true,"dg-permalink":"home","permalink":"/home/","tags":"gardenEntry","dgShowLocalGraph":true}
 ---
+
 # Dhruv's Digital Garden 🌱
 
 **Hello, and welcome to** <mark class="Green">Dhruv's Digital Garden!</mark> 
