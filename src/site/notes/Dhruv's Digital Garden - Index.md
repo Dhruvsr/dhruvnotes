@@ -6,13 +6,15 @@
 
 **Hello, and welcome to** <mark class="Green">Dhruv's Digital Garden!</mark> 
 In this repository, you will be able to navigate through the intricacies of my **second brain** 🧠; a repository of my online notes.
-This isn't the *full access* to all my notes, but through this directory you will be able to access the ones that I wish to keep <mark class="Red">public</mark>. 
+This isn't the *full access* to all my notes, but through this directory you will be able to access the ones that I wish to keep <mark class="Red">public</mark>. In addition, some of my notes are on paper.
 **If I have linked you to a specific note and you arrive here**, you may be confused. If this is the case please go to the exact link which I may have sent you to avoid any confusion.
 
 # Directory of Notes
 - **Organized** [[School Files\|School Files]] 🏫
 	- *Here is some information that I keep handy related to schoolwork and schedules.* 
 -  [[Spanish/0. Spanish Directory\|Spanish]]
+- [[Research/0. Research Directory\|Research Directory]] 
+	- *Here is where I gather information about academia and research*
 
 
 -  **Service As Action** 👷‍♂️
@@ -29,6 +31,8 @@ This isn't the *full access* to all my notes, but through this directory you wil
 - [[IDU/0. IDU Directory\|IDU]]💭
 - [[Humanities/0. Humanities Directory\|Humanities]] 🙋‍♂️
 - [[Personal Project/0. Personal Project Directory\|Personal Project]]📝
+- [[Extracurricular/0. Personal Studies Directory\|Other, Personal Study]] 🏫
 
 - [[Extracurricular/0. Personal Studies Directory\|Personal/Random Notes]]
+
 
