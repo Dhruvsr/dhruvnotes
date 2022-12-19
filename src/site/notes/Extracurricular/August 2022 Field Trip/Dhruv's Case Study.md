@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/extracurricular/august-2022-field-trip/dhruv-s-case-study/"}
 ---
+
 # Dhruv's Case Study
 Dhruv Ramu is a student in Grade 10, studying at an IB school in Bangalore, India. Dhruv has been at that school for many years and thus has fostered many friendships with his classmates and teachers. He enjoys learning and has a passion for science. He tends to score well on his examinations and enjoys attending school.
 He is best at the subjects biology, language and literature, individuals and societies and chemistry, and enjoys them as well. He has an analytical mind and thus enjoys those criteria of humanities and L&L. 
