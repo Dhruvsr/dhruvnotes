@@ -31,8 +31,8 @@ This isn't the *full access* to all my notes, but through this directory you wil
 - [[IDU/0. IDU Directory\|IDU]]💭
 - [[Humanities/0. Humanities Directory\|Humanities]] 🙋‍♂️
 - [[Personal Project/0. Personal Project Directory\|Personal Project]]📝
-- [[Extracurricular/0. Personal Studies Directory\|Other, Personal Study]] 🏫
+- [[Extracurricular/0. Extracurricular Activities Directory\|Other, Personal Study]] 🏫
 
-- [[Extracurricular/0. Personal Studies Directory\|Personal/Random Notes]]
+- [[Extracurricular/0. Extracurricular Activities Directory\|Personal/Random Notes]]
 
 
